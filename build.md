@@ -15,6 +15,6 @@ Patches: anddea/revanced-patches-2.224.0-dev.2.jar
 [Changelog](https://github.com/anddea/revanced-patches/releases/tag/vdev.2)
 
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
-Integrations: crimera/revanced-integrations-1.10.1-dev.1.apk  
-Patches: crimera/revanced-patches-1.19.1-dev.1.jar  
+Integrations: crimera/revanced-integrations-1.11.0-dev.1.apk  
+Patches: crimera/revanced-patches-1.20.0-dev.1.jar  
 [Changelog](https://github.com/crimera/piko/releases/tag/vdev.1)  
