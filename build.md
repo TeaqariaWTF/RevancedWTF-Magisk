@@ -1,3 +1,4 @@
+Music-RVX: 6.48.51  
 YouTube-RVX: 19.11.38  
 twitter-non-monet: 10.35.0-release.0  
 Reddit: 2024.16.0  
