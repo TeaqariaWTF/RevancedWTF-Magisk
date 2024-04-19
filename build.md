@@ -1,6 +1,5 @@
-Music-RVX: 6.46.52  
-twitter-non-monet: 10.35.0-release.0  
 YouTube-RVX: 19.11.38  
+twitter-non-monet: 10.35.0-release.0  
 Reddit: 2024.16.0  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
@@ -8,8 +7,8 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
-Integrations: anddea/revanced-integrations-0.151.0-dev.7.apk  
-Patches: anddea/revanced-patches-2.224.0-dev.8.jar  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v2.224.0-dev.8)
+Integrations: anddea/revanced-integrations-0.151.0-dev.8.apk  
+Patches: anddea/revanced-patches-2.224.0-dev.9.jar  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v2.224.0-dev.9)
 
 CLI: j-hc/revanced-cli-4.6.0-all.jar    
