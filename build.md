@@ -10,18 +10,18 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
   
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
 Integrations: anddea/revanced-integrations-0.152.0-dev.14.apk  
-Patches: anddea/revanced-patches-2.225.0-dev.24.jar  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v2.225.0-dev.24)
+Patches: anddea/revanced-patches-2.225.0-dev.25.jar  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v2.225.0-dev.25)
 
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
 Integrations: anddea/revanced-integrations-0.152.0-dev.14.apk  
-Patches: anddea/revanced-patches-2.225.0-dev.24.jar  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v2.225.0-dev.24)
+Patches: anddea/revanced-patches-2.225.0-dev.25.jar  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v2.225.0-dev.25)
 
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
 Integrations: anddea/revanced-integrations-0.152.0-dev.14.apk  
-Patches: anddea/revanced-patches-2.225.0-dev.24.jar  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v2.225.0-dev.24)
+Patches: anddea/revanced-patches-2.225.0-dev.25.jar  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v2.225.0-dev.25)
 
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
 Integrations: crimera/revanced-integrations-1.19.0.apk  
