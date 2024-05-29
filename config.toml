@@ -57,7 +57,7 @@ arch = "arm64-v8a"
 
 [Reddit]
 app-name = "Reddit"
-version = "2024.19.0"
+version = "2024.18.01"
 build-mode = "apk"
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 patches-source = "anddea/revanced-patches"
