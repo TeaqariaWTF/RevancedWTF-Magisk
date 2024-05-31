@@ -1,4 +1,4 @@
-,enable-magisk-update = true # set this to false if you do not want to receive up
+enable-magisk-update = true # set this to false if you do not want to receive up
 
 # you can use rvmm-config-gen to generate a config
 
