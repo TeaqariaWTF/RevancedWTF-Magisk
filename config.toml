@@ -15,7 +15,7 @@ enable-magisk-update = true # set this to false if you do not want to receive up
 [Music-RVX]
 app-name = "Music"
 build-mode = "both"
-version = "7.03.51"
+version = "7.08.52"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "RVX"
@@ -29,7 +29,7 @@ arch = "arm64-v8a"
 [YouTube-RVX]
 app-name = "YouTube"
 build-mode = "both"
-version = "19.20.34"
+version = "19.25.39"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "RVX"
