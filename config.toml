@@ -5,68 +5,55 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 # you can use rvmm-config-gen to generate a config
 
-[YouTube]
-build-mode = "both"
-excluded-patches = ""
-included-patches = ""
-version = "auto"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube" # fallback
-
-[Music]
-build-mode = "both"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-arch = "both"
-
-[Music-Extended]
+[Music-RVX]
 app-name = "Music"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
 build-mode = "both"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-arch = "both"
-
-[YouTube-Extended]
-app-name = "YouTube"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
-build-mode = "both"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-
-[Twitter]
-build-mode = "apk"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
-
-[Twitch]
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
-
-[TikTok]
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
-included-patches = "'SIM spoof'"
-
-[Reddit-Extended]
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
-
-[Messenger]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
+version = "7.04.51"
+patches-source = "anddea/revanced-patches"
+integrations-source = "anddea/revanced-integrations"
+rv-brand = "RVX"
+patches-version = "v2.227.0-dev.14"
+integrations-version = "v0.154.0-dev.5"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
+excluded-patches = ""
+included-patches = "'Custom branding icon YouTube Music' 'Custom branding name YouTube Music'"
 arch = "arm64-v8a"
 
-[Spotify]
-enabled = false
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+[YouTube-RVX]
+app-name = "YouTube"
+build-mode = "both"
+version = "19.20.35"
+patches-source = "anddea/revanced-patches"
+integrations-source = "anddea/revanced-integrations"
+rv-brand = "RVX"
+patches-version = "v2.227.0-dev.14"
+integrations-version = "v0.154.0-dev.5"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
+excluded-patches = "'Shorts overlay buttons'"
+included-patches = "'Custom branding icon YouTube' 'Hide videos based on duration ' 'Force disable Shorts dim' 'Force snackbar theme' 'Custom branding name YouTube' 'Add splash animation' ' Insert position'"
+arch = "arm64-v8a"
 
-[IconPackStudio]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+
+[twitter-non-monet]
+build-mode = "apk"
+version = "10.48.0-release.0"
+patches-source = "crimera/piko"
+integrations-source = "crimera/revanced-integrations"
+patches-version = "v1.31.2"
+integrations-version = "v1.20.1"
+rv-brand = "Piko Patches"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
+included-patches = "'Remove "Creators to subscribe" Banner' 'Remove "Communities to join" Banner' 'Remove "Who to follow" Banner' 'Remove Google Ads' 'Remove Ads' 'Custom download folder' 'Hide Promoted Trends' 'Remove Detailed posts' 'Remove "Revisit Bookmark" Banner' 'Remove "Pinned posts by followers" Banner' 'Hide FAB' 'Disable chirp font' 'Bring back twitter' 'No shortened URL' 'Clear tracking params' 'Show sensitive media' 'Selectable Text' 'Hide Recommended Users' 'Hide Community Notes' 'Hide FAB Menu Buttons' 'Enable Reader Mode' 'Enable custom app icon and nav icon settings' 'Hook feature flag' 'Remove view count' 'Adds settings' 'Hide Live Threads' 'Hide For You' 'Hide Banner' 'Download patch' 'Enable Undo Posts' 'Hide bookmark icon in timeline'"
+excluded-patches = "'Dynamic color'"
+arch = "arm64-v8a"
+
+
+[Reddit-Extended]
+build-mode = "apk"
+patches-source = "anddearevanced-patches"
+integrations-source = "anddea/revanced-integrations"
+rv-brand = "RVX"
+patches-version = "v2.227.0-dev.14"
+integrations-version = "v0.154.0-dev.5"
+included-patches = "'Disable screenshot popup' 'Hide ads' 'Hide navigation buttons' 'Remove subreddit dialog' 'Premium icon' 'Open links externally' 'Open links directly' 'Hide recently visited shelf' 'Settings' 'Sanitize sharing links'"
+arch = "arm64-v8a"
