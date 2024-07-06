@@ -6,18 +6,6 @@
       {
         "key": "AppIcon",
         "value": "MMT"
-      },
-      {
-        "key": "ChangeHeader",
-        "value": "MMT"
-      },
-      {
-        "key": "CustomHeader",
-        "value": "MMT"
-      },
-      {
-        "key": "ChangeSplashIcon",
-        "value": "MMT"
       }
     ]
   },
@@ -34,15 +22,11 @@
     "patchName": "Custom branding icon YouTube Music",
     "options": [
       {
+        "key": "SplashHeaderIcon",
+        "value": "MMT"
+      },
+      {
         "key": "AppIcon",
-        "value": "MMT"
-      },
-      {
-        "key": "ChangeHeader",
-        "value": "MMT"
-      },
-      {
-        "key": "ChangeSplashIcon",
         "value": "MMT"
       }
     ]
@@ -60,5 +44,8 @@
       }
     ]
   }
+        
 ]
         
+        
+
