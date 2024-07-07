@@ -1,17 +1,5 @@
 enable-magisk-update = true # set this to false if you do not want to receive up
 
-# you can use rvmm-config-gen to generate a config
-
-# [YouTube]
-# build-mode = "both"
-# version = "auto"
-# uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-
-# [Music]
-# build-mode = "both"
-# version = "auto"
-# uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-
 [Music-RVX]
 app-name = "Music"
 build-mode = "both"
@@ -23,7 +11,7 @@ patches-version = "v2.227.0-dev.14"
 integrations-version = "v0.154.0-dev.5"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 excluded-patches = ""
-included-patches = "'Custom branding icon YouTube Music' 'Custom branding name YouTube Music' 'Amoled' 'Bitrate default value' 'Certificate spoof' 'Change start page' 'Disable auto captions' 'Disable dislike redirection' 'Enable landscape mode' 'Enable minimized playback' 'Enable opus codec' 'Flyout menu components' 'GmsCore support' 'Hide account components' 'Hide action bar components' 'Hide ads' 'Hide double tap overlay filter' 'Hide layout components' 'Hide overlay filter' 'Hide player overlay filter' 'Navigation bar components' 'Replace cast button' 'Player components' 'Remove viewer discretion dialog' 'Replace cast button' 'Restore old style library shelf' 'Return YouTube Dislike' 'Sanitize sharing links' 'Settings' 'SponsorBlock' 'Spoof app version' 'Translations' 'Video playback'"
+included-patches = "'Custom branding icon YouTube Music' 'Custom branding name YouTube Music' 'Amoled' 'Bitrate default value' 'Certificate spoof' 'Change start page' 'Disable auto captions' 'Disable dislike redirection' 'Enable debug logging' 'Enable landscape mode' 'Enable minimized playback' 'Enable opus codec' 'Flyout menu components' 'GmsCore support' 'Hide account components' 'Hide action bar components' 'Hide ads' 'Hide double tap overlay filter' 'Hide layout components' 'Hide overlay filter' 'Hide player overlay filter' 'Navigation bar components' 'Remove viewer discretion dialog' 'Player components' 'Replace cast button' 'Restore old style library shelf' 'Return YouTube Dislike' 'Sanitize sharing links' 'Settings' 'SponsorBlock' 'Spoof app version' 'Translations' 'Video playback'"
 arch = "arm64-v8a"
 
 [YouTube-RVX]
@@ -36,8 +24,8 @@ rv-brand = "RVX"
 patches-version = "v2.227.0-dev.14"
 integrations-version = "v0.154.0-dev.5"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
-excluded-patches = "'Shorts overlay buttons'"
-included-patches = "'Custom branding icon YouTube' 'Hide videos based on duration ' 'Force disable Shorts dim' 'Force snackbar theme' 'Custom branding name YouTube' 'Add splash animation' ' Insert position'"
+excluded-patches = ""
+included-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube' 'Add splash animation' 'Alternative thumbnails' 'Ambient mode control' 'Change player flyout menu toggles' 'Change shorts repeat state' 'Change start page' 'Custom double tap length' 'Description components' 'Disable QUIC protocol' 'Disable auto audio tracks' 'Disable auto captions' 'Disable haptic feedback' 'Disable resuming shorts on startup' 'Disable splash animation' 'Enable debug logging' 'Enable external browser' 'Enable external browser' 'Enable gradient loading screen' 'Enable minimized playback' Enable open links directly' 'Enable tablet mini player' 'Force snackbar theme' 'Fullscreen components' 'GmsCore support' 'Hide action buttons' 'Hide ads' 'Hide comments component' 'Hide double tap overlay filter' 'Hide feed components' 'Hide feed flyout menu' 'Hide layout components' 'Hide player button background' 'Hide player buttons' 'Hide player flyout menu' 'Layout switch' 'Navigation bar components' 'Overlay buttons' 'Remove viewer discretion dialog' 'Player components' 'Return YouTube Dislike' 'Sanitize sharing links' 'Seekbar components' 'Settings' 'Shorts components' 'Shorts overlay buttons' 'SponsorBlock' 'Spoof app version' 'Spoof format stream data' 'Spoof test client' 'Swipe controls' 'Toolbar components' 'Visual preferences icons' 'Video playback' 'Translations'
 arch = "arm64-v8a"
 
 
