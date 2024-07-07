@@ -1,4 +1,3 @@
-        
 [
   {
     "patchName": "Custom branding icon YouTube",
@@ -43,9 +42,14 @@
         "value": "YouTube Music"
       }
     ]
+  },
+  {
+    "patchName": "Custom Shorts action buttons",
+    "options": [
+      {
+        "key": "IconType",
+        "value": "OutlineCircle"
+      }
+    ]
   }
-        
 ]
-        
-        
-
