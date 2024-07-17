@@ -5,15 +5,15 @@
     "options": [
       {
         "key": "AppIcon",
-        "value": "MMT"
+        "value": "MMT Blue"
       },
       {
         "key": "ChangeHeader",
-        "value": "MMT"
+        "value": "MMT Blue"
       },
       {
         "key": "ChangeSplashIcon",
-        "value": "MMT"
+        "value": "MMT Blue"
       }
     ]
   },
@@ -35,7 +35,7 @@
     "options": [
       {
         "key": "CustomHeader",
-        "value": "MMT"
+        "value": "MMT Blue"
       }
     ]
   },
@@ -48,11 +48,11 @@
       },
       {
         "key": "ChangeHeader",
-        "value": "MMT"
+        "value": "MMT Blue"
       },
       {
         "key": "ChangeSplashIcon",
-        "value": "MMT"
+        "value": "MMT Blue"
       }
     ]
   },
