@@ -4,7 +4,7 @@
     "options": [
       {
         "key": "AppIcon",
-        "value": "MMT"
+        "value": "MMT RED"
       }
     ]
   },
@@ -22,11 +22,11 @@
     "options": [
       {
         "key": "SplashHeaderIcon",
-        "value": "MMT"
+        "value": "MMT RED"
       },
       {
         "key": "AppIcon",
-        "value": "MMT"
+        "value": "MMT RED"
       }
     ]
   },
