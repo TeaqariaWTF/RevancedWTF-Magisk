@@ -1,18 +1,58 @@
+        
 [
+  {
+    "patchName": "Custom Shorts action buttons",
+    "options": [
+      {
+        "key": "IconType",
+        "value": "OriginalOutline"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding icon for YouTube",
+    "options": [
+      {
+        "key": "AppIcon",
+        "value": "MMT"
+      },
+      {
+        "key": "ChangeHeader",
+        "value": "MMT"
+      },
+      {
+        "key": "CustomHeader",
+        "value": "MMT"
+      },
+      {
+        "key": "ChangeSplashIcon",
+        "value": "MMT"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding name for YouTube",
+    "options": [
+      {
+        "key": "AppName",
+        "value": "YouTube "
+      }
+    ]
+  },
   {
     "patchName": "Custom branding icon for YouTube Music",
     "options": [
       {
         "key": "AppIcon",
-        "value": "MMT Blue"
+        "value": "MMT"
       },
       {
         "key": "ChangeHeader",
-        "value": "MMT Blue"
+        "value": "MMT"
       },
       {
         "key": "ChangeSplashIcon",
-        "value": "MMT Blue"
+        "value": "MMT"
       }
     ]
   },
@@ -26,41 +66,6 @@
       {
         "key": "AppNameLauncher",
         "value": "YouTube Music"
-      }
-    ]
-  },
-  {
-    "patchName": "Custom header for YouTube Music",
-    "options": [
-      {
-        "key": "CustomHeader",
-        "value": "MMT Blue"
-      }
-    ]
-  },
-  {
-    "patchName": "Custom branding icon for YouTube",
-    "options": [
-      {
-        "key": "AppIcon",
-        "value": "MMT"
-      },
-      {
-        "key": "ChangeHeader",
-        "value": "MMT Blue"
-      },
-      {
-        "key": "ChangeSplashIcon",
-        "value": "MMT Blue"
-      }
-    ]
-  },
-  {
-    "patchName": "Custom branding name for YouTube",
-    "options": [
-      {
-        "key": "AppName",
-        "value": "YouTube"
       }
     ]
   }
