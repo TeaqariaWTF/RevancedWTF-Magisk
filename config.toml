@@ -11,7 +11,7 @@ patches-version = "v2.227.0-dev.20"
 integrations-version = "v0.154.0-dev.5"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 excluded-patches = ""
-included-patches = "'Custom branding icon YouTube Music' 'Custom branding name YouTube Music' 'Amoled' 'Bitrate default value' 'Certificate spoof' 'Change start page' 'Disable auto captions' 'Disable dislike redirection' 'Enable debug logging' 'Enable landscape mode' 'Enable minimized playback' 'Enable opus codec' 'Flyout menu components' 'GmsCore support' 'Hide account components' 'Hide action bar components' 'Hide ads' 'Hide double tap overlay filter' 'Hide layout components' 'Hide overlay filter' 'Hide player overlay filter' 'Navigation bar components' 'Remove viewer discretion dialog' 'Player components' 'Replace cast button' 'Restore old style library shelf' 'Return YouTube Dislike' 'Sanitize sharing links' 'Settings' 'SponsorBlock' 'Spoof app version' 'Translations' 'Video playback'"
+included-patches = "'Custom branding icon for YouTube Music' 'Custom branding name YouTube Music' 'Amoled' 'Bitrate default value' 'Certificate spoof' 'Change start page' 'Disable auto captions' 'Disable dislike redirection' 'Enable debug logging' 'Enable landscape mode' 'Enable minimized playback' 'Enable opus codec' 'Flyout menu components' 'GmsCore support' 'Hide account components' 'Hide action bar components' 'Hide ads' 'Hide double tap overlay filter' 'Hide layout components' 'Hide overlay filter' 'Hide player overlay filter' 'Navigation bar components' 'Remove viewer discretion dialog' 'Player components' 'Replace cast button' 'Restore old style library shelf' 'Return YouTube Dislike' 'Sanitize sharing links' 'Settings' 'SponsorBlock' 'Spoof app version' 'Translations' 'Video playback'"
 arch = "arm64-v8a"
 
 [YouTube-RVX]
@@ -25,7 +25,7 @@ patches-version = "v2.227.0-dev.20"
 integrations-version = "v0.154.0-dev.5"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 excluded-patches = ""
-included-patches = "'Shorts overlay buttons' 'Custom branding icon YouTube' 'Custom branding name YouTube' 'Add splash animation' 'Alternative thumbnails' 'Ambient mode control' 'Change player flyout menu toggles' 'Change shorts repeat state' 'Change start page' 'Custom double tap length' 'Description components' 'Disable QUIC protocol' 'Disable auto audio tracks' 'Disable auto captions' 'Disable haptic feedback' 'Disable resuming shorts on startup' 'Disable splash animation' 'Enable debug logging' 'Enable external browser' 'Enable external browser' 'Enable gradient loading screen' 'Enable minimized playback' Enable open links directly' 'Enable tablet mini player' 'Force snackbar theme' 'Fullscreen components' 'GmsCore support' 'Hide action buttons' 'Hide ads' 'Hide comments component' 'Hide double tap overlay filter' 'Overlay buttons'"
+included-patches = "'Shorts overlay buttons' 'Custom branding icon for YouTube' 'Custom branding name YouTube' 'Add splash animation' 'Alternative thumbnails' 'Disable splash animation'"
 arch = "arm64-v8a"
 
 
