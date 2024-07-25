@@ -48,3 +48,5 @@ $ git clone https://github.com/j-hc/revanced-magisk-module
 $ cd revanced-magisk-module
 $ ./build.sh
 ```
+
+<img src="https://img.shields.io/liberapay/goal/rellana.svg?logo=liberapay">
