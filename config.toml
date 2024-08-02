@@ -39,7 +39,7 @@ patches-version = "v1.33.0"
 integrations-version = "v1.22.0"
 rv-brand = "Piko Patches"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
-included-patches = "'Custom Navigation' 'Navigation bar items to hide' 'Download preference' 'Force enable translate' 'Hide promote button' 'Remove Ads' 'Remove Google Ads' 'Remove "Who to follow" Banner' 'Remove "Creators to subscribe" Banner' 'Remove "Communities to join" Banner' 'Remove "Pinned posts by followers" Banner' 'Remove "Revisit Bookmark" Banner' 'Remove Detailed posts' 'Hide Promoted Trends' 'Custom download folder' 'Clear tracking params' 'No shortened URL' 'Bring back twitter' 'Disable chirp font' 'Hide FAB' 'Hide FAB Menu Buttons' 'Hide Community Notes' 'Hide Recommended Users' 'Selectable Text' 'Show sensitive media' 'Adds settings' 'Remove view count' 'Hook feature flag' 'Enable custom app icon and nav icon settings' 'Enable Reader Mode' 'Enable Undo Posts' 'Download patch' 'Hide Banner' 'Hide For You' 'Hide Live Threads' 'Hide bookmark icon in timeline' 'Customize profile tabs' 'No shortened URL' 'Customize Inline action Bar items' 'Round off numbers' 'Hide hidden replies' 'Hide Buy Premium Banner'"
+included-patches = ""
 excluded-patches = "'Dynamic color'"
 arch = "arm64-v8a"
 
