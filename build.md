@@ -1,5 +1,5 @@
 Music-RVX: 7.17.51  
-YouTube-RVX: 19.26.42  
+YouTube-RVX: 19.16.39  
 Reddit: 2024.17.0  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
