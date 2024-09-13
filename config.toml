@@ -17,7 +17,7 @@ arch = "arm64-v8a"
 [YouTube-RVX]
 app-name = "YouTube"
 build-mode = "both"
-version = "19.16.39"
+version = "19.26.42"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "RVX"
