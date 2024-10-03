@@ -32,7 +32,7 @@ arch = "arm64-v8a"
 
 [twitter-non-monet]
 build-mode = "apk"
-version = "10.61.0-release.0"
+version = "10.61.1-release.0"
 patches-source = "crimera/piko"
 integrations-source = "crimera/revanced-integrations"
 patches-version = "v1.41.0-dev.1"
