@@ -28,8 +28,6 @@ excluded-patches = ""
 included-patches = "'Shorts overlay buttons' 'Custom branding icon for YouTube' 'Custom branding name YouTube' 'Add splash animation' 'Alternative thumbnails' 'Disable splash animation'"
 arch = "arm64-v8a"
 
-
-
 [twitter-non-monet]
 build-mode = "apk"
 version = "10.62.1-release.0"
